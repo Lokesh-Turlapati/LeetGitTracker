@@ -1,0 +1,13 @@
+# IntelliJ IDEA files (contains your Run Configuration with passwords!)
+.idea/
+*.iml
+
+# Maven compiled build files
+target/
+
+# Local environment & secret property files
+.env
+.env.*
+.env.properties
+application-local.properties
+application-local.yml
